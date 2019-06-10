@@ -2,6 +2,8 @@ Download Github: https://github.com/
 
 Install Github: https://desktop.github.com/
 
+Example commands:
+
 git clone https://github.com/hisamsabouni/testRepository.git
 
 git pull
