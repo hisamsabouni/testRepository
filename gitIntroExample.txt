@@ -4,5 +4,16 @@ Install Github: https://desktop.github.com/
 
 git clone https://github.com/hisamsabouni/testRepository.git
 
+git pull
+
+git add -A
+
+git commit -m "first commit"
+
+git push
+
+
+
+
 
 
